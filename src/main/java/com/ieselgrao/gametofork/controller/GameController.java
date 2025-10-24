@@ -1,5 +1,7 @@
-package com.ieselgrao.gametofork;
+package com.ieselgrao.gametofork.controller;
 
+import com.ieselgrao.gametofork.model.GameModel;
+import com.ieselgrao.gametofork.MainApplication;
 import javafx.animation.AnimationTimer;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
@@ -27,7 +29,7 @@ public class GameController {
     // Parámetros de los círculos
     private final double MIN_RADIUS = 10;
     private final double MAX_RADIUS = 30;
-    private final double FALL_SPEED = 1.5;
+    private final double FALL_SPEED = 1;
     private final double LOST_LINE_Y = 550; // Línea cerca del pie de la ventana (600px)
 
     @FXML

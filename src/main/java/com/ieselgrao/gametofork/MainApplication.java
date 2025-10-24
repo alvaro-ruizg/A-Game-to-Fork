@@ -1,5 +1,6 @@
-package com.myproject.clickergame;
+package com.ieselgrao.gametofork;
 
+import com.ieselgrao.gametofork.model.GameModel;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

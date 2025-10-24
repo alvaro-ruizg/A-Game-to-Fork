@@ -1,5 +1,6 @@
-package com.ieselgrao.gametofork;
+package com.ieselgrao.gametofork.controller;
 
+import com.ieselgrao.gametofork.MainApplication;
 import javafx.application.Platform;
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

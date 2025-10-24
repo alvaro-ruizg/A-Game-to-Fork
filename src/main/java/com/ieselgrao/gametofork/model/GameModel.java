@@ -1,4 +1,4 @@
-package com.ieselgrao.gametofork;
+package com.ieselgrao.gametofork.model;
 
 import javafx.beans.property.IntegerProperty;
 import javafx.beans.property.SimpleIntegerProperty;
